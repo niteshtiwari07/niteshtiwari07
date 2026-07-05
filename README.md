@@ -19,7 +19,7 @@ Building scalable web applications with modern technologies 🚀
 * 🎓 B.Tech Computer Science & Engineering Student (2027 Batch)
 * 💻 Passionate Full Stack MERN Developer
 * 🔥 I enjoy building scalable web applications and solving real-world problems.
-* 🧠 Solved **370+ DSA Problems** across LeetCode and other coding platforms.
+* 🧠 Solved **700+ DSA Problems** across LeetCode, Codechef and other coding platforms.
 * 🚀 Currently focusing on Full Stack Development, DSA, and Placement Preparation.
 * 🎯 Goal: Secure an SDE role in a top product-based company.
 
