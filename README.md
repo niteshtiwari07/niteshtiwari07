@@ -8,9 +8,9 @@ Full Stack MERN Developer • Backend Enthusiast • Problem Solver
 Building scalable web applications with modern technologies 🚀
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niteshtiwari07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
